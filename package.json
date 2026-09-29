@@ -1,0 +1,9 @@
+{
+  "name": "jb-ai-demo-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JUST BUILD AI Demo 片建議 5 款（網上版）",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
